@@ -14,7 +14,7 @@ Estou sempre buscando melhorar minhas habilidades e criar projetos cada vez mais
 🚀 Projetos
 📌 Projeto 01
 
-Descrição do seu primeiro projeto.
+Receitas.
 
 🔗 Ver projeto
 
